@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mr-xiao2021.github.io/link/index.html</loc>
+    
+    <lastmod>2024-10-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mr-xiao2021.github.io/archives/eb4b5afe.html</loc>
     
     <lastmod>2024-10-01</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://mr-xiao2021.github.io/categories/index.html</loc>
-    
-    <lastmod>2024-09-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mr-xiao2021.github.io/link/index.html</loc>
     
     <lastmod>2024-09-29</lastmod>
     
