@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Cuda的安装</title>
+      <link href="/archives/577a06e7.html"/>
+      <url>/archives/577a06e7.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>【5分钟学会在Windows上搭建模型训练环境 | WSL安装| CUDA | Conda | Unsloth】 <a href="https://www.bilibili.com/video/BV1iatTeGENk/?share_source=copy_web&amp;vd_source=63b0d084447abdc150ddebfd32add0b3">https://www.bilibili.com/video/BV1iatTeGENk/?share_source=copy_web&amp;vd_source=63b0d084447abdc150ddebfd32add0b3</a></p><p>【CUDA编程基础入门系列（持续更新）】 <a href="https://www.bilibili.com/video/BV1sM4y1x7of/?p=3&amp;share_source=copy_web&amp;vd_source=63b0d084447abdc150ddebfd32add0b3">https://www.bilibili.com/video/BV1sM4y1x7of/?p=3&amp;share_source=copy_web&amp;vd_source=63b0d084447abdc150ddebfd32add0b3</a></p><blockquote><p>安装遇到问题？<br><a href="https://zhuanlan.zhihu.com/p/599286889">https://zhuanlan.zhihu.com/p/599286889</a></p></blockquote><h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> CUDA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>线性DP</title>
       <link href="/archives/ea2a560b.html"/>
       <url>/archives/ea2a560b.html</url>
